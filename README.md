@@ -63,7 +63,7 @@
 <a href = "https://www.instagram.com/yesiamjc/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yesiamjc">
 </a>
