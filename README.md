@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my codes are available at : **[#100DaysOfCode](https://github.com/yesiamjc/100DaysOfCode)**
 
-- 📫 Rach me :  **chakrabortyjoy638@gmail.com**
+- 📫 Reach me :  **chakrabortyjoy638@gmail.com**
 
 - ⚡ Fun fact **I like to play games and go to the GYM very often.**
 
