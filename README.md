@@ -4,7 +4,7 @@
 <h3 align="center">I am a passionate cpp programmer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me :
 
 - 🔭 I’m currently in **2nd year** of B.Tech - IT'24
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I like to play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools :
 
 <p align="left"> 
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Stats :
 
   <br/>
     <a href="https://github.com/yesiamjc/github-readme-stats"><img alt="Joy Chakraborty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yesiamjc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me :
 <p align="left">
 
 <a href = "https://bit.ly/3E3TaAX"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -63,7 +63,7 @@
 <a href = "https://www.instagram.com/yesiamjc/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## Views and Followers
+## Views and Followers :
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yesiamjc">
 </a>
