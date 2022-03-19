@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently in **2nd year** of B.Tech - IT'24
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I want to learn more about **OpenSource Projects**
+- 👯 I want to learn more about **OpenSource Projects and web3.0**
 
 - 👨‍💻 All of my codes are available at : **[#100DaysOfCode](https://github.com/yesiamjc/100DaysOfCode)**
 
 - 📫 Reach me :  **chakrabortyjoy638@gmail.com**
 
-- ⚡ Fun fact **I like to play games and go to the GYM very often.**
+- ⚡ Fun fact **I like to play games and also build them.**
 
 ## 🚀 Languages and Tools :
 
