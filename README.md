@@ -1,18 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="yeps.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=".03px">, I'm Joy</h1>
+<h1 align="center">Hi👋, I'm Joy</h1>
 <h3 align="center">I am a passionate cpp programmer from India.</h3>
 
 
 ## 🙋‍♂️ About Me :
 
-- 🔭 I’m currently in **2nd year** of B.Tech - IT'24
+- 🔭 I’m currently in **3rd year** of B.Tech - IT'24
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web3.0**
 
-- 👯 I want to learn more about **OpenSource Projects and web3.0**
+- 👯 I want to learn more about **OpenSource Projects and persue webDev**
 
-- 👨‍💻 All of my codes are available at : **[#100DaysOfCode](https://github.com/yesiamjc/100DaysOfCode)**
+- 👨‍💻 All of my codes are available at : **[#365DaysOfCode](https://github.com/yesiamjc/365DaysOfCode)**
 
 - 📫 Reach me :  **chakrabortyjoy638@gmail.com**
 
