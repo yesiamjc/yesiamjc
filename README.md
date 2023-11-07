@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me :
 
-- 🔭 I’m currently in **3rd year** of B.Tech - IT'24
+- 🔭 I’m currently in **Final Year** of B.Tech - IT'24
 
-- 🌱 I’m currently learning **Web3.0**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I want to learn more about **OpenSource Projects and persue webDev**
+- 👯 I want to learn more about **Machine Learning**
 
-- 👨‍💻 All of my codes are available at : **[#365DaysOfCode](https://github.com/yesiamjc/365DaysOfCode)**
+- 👨‍💻 All of my codes are available at : **[Here](https://github.com/yesiamjc/)**
 
 - 📫 Reach me :  **chakrabortyjoy638@gmail.com**
 
