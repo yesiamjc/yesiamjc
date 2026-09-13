@@ -188,8 +188,8 @@ Areas I'm interested in:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjdotdev&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdotdev&layout=compact&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesiamjc&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesiamjc&layout=compact&hide_border=true&theme=transparent" height="165">
 </p>
 
 <p align="center">
@@ -200,11 +200,11 @@ Areas I'm interested in:
 
 ## Find me
 
-**GitHub:** https://github.com/jjdotdev
+**GitHub:** https://github.com/yesiamjc
 
 **X:** https://x.com/jjdotdev
 
-**LinkedIn:** https://www.linkedin.com/in/joy-chakraborty/
+**LinkedIn:** https://www.linkedin.com/in/jjdotdev/
 
 **Open Source:** https://thriversopensource.com
 
