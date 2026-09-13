@@ -193,7 +193,7 @@ Areas I'm interested in:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jjdotdev&hide_border=true&theme=transparent">
+  <img src="https://streak-stats.demolab.com?user=yesiamjc&hide_border=true&theme=transparent">
 </p>
 
 ---
